@@ -1,4 +1,4 @@
-# shit
+# hi
 first repository
 
-# Wiki dota2
+# Wiki
